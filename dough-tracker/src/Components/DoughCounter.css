@@ -1,0 +1,31 @@
+.form-field {
+    border-radius: 8px;
+    text-align: left;
+    padding-left: 1em;
+    border: 1px solid black;
+    background-color:#d89a49;
+    font-size: 20px;
+    color : black;
+}
+
+.form-container {
+    padding: 3em;
+    font-size: 1em;
+    font-weight: 500;
+    border-radius: 50px;
+}
+
+.button{
+    margin: center;
+}
+
+.input {
+    size: .8em;
+    font-size: 14px;
+    padding-left: .5em;
+    margin: 2%;
+}
+
+.static-fields {
+    padding: 2em;
+}

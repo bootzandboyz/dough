@@ -1,0 +1,22 @@
+Creator - Jordan McCollum
+
+Project Name - Dough Counter 
+
+OB Pizza does not currently have a streamlined system for cataloging and tracking inventory. 
+
+Description - This is a tool designed for OB Pizza to calculate:
+    1. the number of pizza doughs in our inventory
+    2. the state of the pizza doughs 
+        a. rolled doughs (ready to use)
+        b. proofed doughs (ready to be rolled)
+        c. pulled doughs (pulled from the freezer and thawing)
+    3. a suggested number of cases of pizza dough to order
+
+
+Goals - 
+    1. Able to predict how many doughs to roll out on Saturday nights → prevent excess doughs from being rolled and not used. (OB Pizza is closed Monday and Sunday)
+    2. Able to log food waste (spoilage or burnt food)
+    3. Integrate ordering (automatic and/or an “add to order”)
+    4. Able to suggest if & when all inventory items need to ordered/added to the weekly truck order based on historical orders and current stock 
+    5. Help prevent running out of ingredients and reduce the likelihood of having to temporary remove menu items
+    6. 
